@@ -6,5 +6,11 @@ Specifically, the implementation includes:
 * seamless cloning by mixing gradients
 * texture flattening
 * local illumination changes.
-</br>
+
 # Libraries
+* cv2 (image loading, resize)
+* numpy
+* scipy (linear algebra)
+* matplotlib (plotting, polygon region selectors)
+
+# Features
